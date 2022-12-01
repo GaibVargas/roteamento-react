@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+form {
+  display: inline-block;
+  padding: 20px;
+  background: #dcdcdc;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-field {
+  margin-bottom: 20px;
+}
+
+.btn-login {
+  width: 100%;
+  padding: 10px;
+}
